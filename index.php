@@ -14,6 +14,7 @@
 <body>
     <?php
         include_once 'supprimer.php';
+        include_once 'modif.php';
     ?>
 </body>
 </html>
