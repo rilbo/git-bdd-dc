@@ -1,5 +1,5 @@
 <?php
-    include_once $_SERVER['DOCUMENT_ROOT'].'/config/login.php';
+    include_once './config/login.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
